@@ -2,6 +2,9 @@
 
 Teacher: Thanh Son Nguyen
 
+### How to use:
+- `code`: contains all of my code solving core problems about the concept
+- `material`: contains all of my materials I use for learning
 ---
 
 ### 3 effective learning steps:
