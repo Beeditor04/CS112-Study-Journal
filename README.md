@@ -1,7 +1,7 @@
 # CS112-Study-Journey
 
 Teacher: Thanh Son Nguyen
-
+Student: Huu Nam Nguyen (22520917)
 ### How to use:
 - `code`: contains all of my code solving core problems about the concept
 - `material`: contains all of my materials I use for learning
