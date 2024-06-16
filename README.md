@@ -1,4 +1,4 @@
-# CS112-Study-Journey
+# CS112-Study-Journal
 
 Teacher: Thanh Son Nguyen \
 Student: Huu Nam Nguyen (22520917)
