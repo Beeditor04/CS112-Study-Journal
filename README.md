@@ -19,10 +19,9 @@ Teacher: Thanh Son Nguyen
 1. DSA roadmap: [links](https://roadmap.sh/computer-science)
     - neetcode: [links](https://neetcode.io/roadmap)
 2. Code reference: https://github.com/TheAlgorithms/Python
-3. Lecture video: MIT, youtube
-4. Book pdf: in your “CS112” folder
-5. Competition: Leetcode, codeforce, hackerrank
-6. [Interview prep](https://github.com/mGalarnyk/DataScienceInterview/blob/master/Algorithms/resources.md)
+3. Other lectures: MIT, youtube, CS161 (Stanford)
+4. Competition: Leetcode, codeforce, hackerrank
+5. [Interview prep](https://github.com/mGalarnyk/DataScienceInterview/blob/master/Algorithms/resources.md)
 
 
 ### Theory:
@@ -40,7 +39,6 @@ Teacher: Thanh Son Nguyen
 
 ### Others:
 - Chinese: [labuladong/fucking-algorithm at english (github.com)](https://github.com/labuladong/fucking-algorithm/tree/english)
-
+- Chinese 2; [leetcode/README.en.md at master · azl397985856/leetcode (github.com)](https://github.com/azl397985856/leetcode/blob/master/README.en.md)
 - Dynamic Programming: [Dynamic Programming Patterns - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 
-- Chinese 2; [leetcode/README.en.md at master · azl397985856/leetcode (github.com)](https://github.com/azl397985856/leetcode/blob/master/README.en.md)
